@@ -11,7 +11,7 @@ This project is a responsive website for a headphone company. The design was cre
 - **Max Content Width:** Content is centered with a maximum width of 1000px.
 
 ## How to Use
-1. Clone the repository: `git clone https://github.com/yourusername/holbertonschool-headphones.git`
+1. Clone the repository: `git clone https://github.com/yene2024/holbertonschool-headphones.git`
 2. Open the `index.html` file in a web browser.
 
 ## Notes
